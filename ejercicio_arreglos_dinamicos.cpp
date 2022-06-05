@@ -5,7 +5,6 @@
     numeros enteros e imprima la cantidad de numeros impares que contiene*/
 
 #include<stdio.h>
-#include<time.h>
 #include<stdlib.h>
 
 int * crear_array_dinamico(int [], int);
